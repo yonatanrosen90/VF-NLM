@@ -6,8 +6,16 @@ VF-NLM is a modified version that accounts for spatially varying noise.
 For choosing parameters: code for calculating and optimizing Stein's Unbiased Risk Estimate (SURE) of the MSE
 
 ## Papers
-Non local means algrithm (Buades et al): https://hal.science/hal-00271141/document
-Stein's Unbiased Risk Estimate (Stein)
+
+* Non local means algrithm:
+   * Author: Buades et al
+   * Name: A review of image denoising algorithms, with a new one
+   * Url:  https://hal.science/hal-00271141/document
+
+* Stein's Unbiased Risk Estimate (SURE):
+   * Author: Stein
+   * Name: Estimation of the Mean of a Multivariate Normal Distribution
+   * Url : https://www.jstor.org/stable/2240405
 
 
 
