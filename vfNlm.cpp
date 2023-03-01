@@ -1,6 +1,6 @@
 /** @brief Function for applying variance factored non-local means (VF-NLM) to 1D signal in RCPP
 * VF-NLM generalizes NLM for spatially varying noise
-* for papaer, see: --- 
+* for paper, see: --- 
 * Note that sig is a vector of the same size as x
 * Applying VF-NLM with constnat noise reduces to the standard NLM
 * For applying standard NLM set sig to a constant vector
