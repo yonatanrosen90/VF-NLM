@@ -1,5 +1,5 @@
 /** @brief Function for applying non-local means (NLM) to 1D signal in RCPP
-* for papaer, see: https://hal.science/hal-00271141/document
+* for paper, see: https://hal.science/hal-00271141/document
 *
 * @param [in] x input noisy signal
 * @param [in] h filter parameter
